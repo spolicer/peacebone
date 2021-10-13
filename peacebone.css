@@ -175,12 +175,7 @@ color: #494949;
     text-align:right;
      transform: rotate(270deg);
   }
-  
-  .peacebone-skills b, i { 
-   color:var(--alt);
-  
-  }
-  
+ 
   
    .trait {	
      padding: 15px 10px;
