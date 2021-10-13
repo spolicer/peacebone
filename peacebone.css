@@ -12,7 +12,10 @@ border-radius: 10px;
 margin: 50px auto;
 
   }
-  
+
+        .peacebone-wrapper::-webkit-scrollbar { width: 0px; background-color: transparent;
+ }
+
   .peacebone-polaroid img {
     position: absolute;
     top: 10px;
