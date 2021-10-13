@@ -173,7 +173,7 @@ color: #494949;
      transform: rotate(270deg);
   }
   
-  .peacebone-skills b, i, u { 
+  .peacebone-skills b, i { 
    color:var(--alt);
   
   }
