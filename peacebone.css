@@ -111,7 +111,8 @@ color: #494949;
     font-weight: bold;
     text-decoration: none;
 }
-      
+        .peacebone-claims::-webkit-scrollbar { width: 0px; background-color: transparent;
+ }
       
   .peacebone-claims {
       display: flex;
