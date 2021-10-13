@@ -138,26 +138,25 @@ color: #494949;
   border-radius:4% 95% 6% 95%/95% 4% 92% 5%;
   transform: rotate(-2deg);
    border:SOLID 1px #41403E;
+    overflow: auto;
     }
 
 .peacebone-claims span {
-      font-family: 'Atkinson Hyperlegible', sans-serif;
+       font-family: 'Atkinson Hyperlegible', sans-serif;
     font-size: 12pX;
     text-transform: uppercase;
     font-weight: 700;
     color: #fff;
     border-radius: 10px;
-      background-image: repeating-linear-gradient(90deg,
-  var(--main),
-  var(--main) 13px,
-  var(--alt) 0px,
-  var(--alt) 5px);;
-    line-height: 40pt;
+    background-image: repeating-linear-gradient(
+90deg, var(--main), var(--main) 13px, var(--alt) 0px, var(--alt) 5px);
+    line-height: 15pt;
     text-align: center;
     padding: 3px 5px 3px 5px;
-  margin: 2px 4px 2px 0px;
+    margin: 2px 4px 2px 0px;
     flex-grow: 1;
-  display: inline-block;
+    display: inline-block;
+   
 }
 
 
